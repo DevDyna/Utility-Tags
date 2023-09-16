@@ -1,0 +1,70 @@
+modLoader = "lowcodefml"
+loaderVersion = "[40,)"
+issueTrackerURL = ""
+license = "ARR"
+[[mods]]
+    modId = "utilitytags"
+    version = "1.0.0"
+    displayName = "Utility Tags"
+    description = "wip"
+	
+[[dependencies.utilitytags]]
+    modId = "forge"
+    mandatory = true
+    versionRange = "[40.1.40,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "patchouli"
+    mandatory = false
+    versionRange = "[1.19.2-77,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "ae2"
+    mandatory = false
+    versionRange = "[12.9.8,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "ae2things"
+    mandatory = false
+    versionRange = "[1.1.1,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "ae2wtlib"
+    mandatory = false
+    versionRange = "[12.9.7,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "alchemygadgetry"
+    mandatory = false
+    versionRange = "[1.0.5,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "ars_nouveau"
+    mandatory = false
+    versionRange = "[1.19.2-3.17.10,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "craftingstation"
+    mandatory = false
+    versionRange = "[1.19.2-6.0.1,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "merequester"
+    mandatory = false
+    versionRange = "[1.19.2-1.1.4,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.utilitytags]]
+    modId = "prettypipes"
+    mandatory = false
+    versionRange = "[1.13.6,)"
+    ordering = "NONE"
+    side = "BOTH"

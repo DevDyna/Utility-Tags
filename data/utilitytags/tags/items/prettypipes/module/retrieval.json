@@ -1,0 +1,7 @@
+{
+    "values": [
+        "prettypipes:low_retrieval_module",
+        "prettypipes:medium_retrieval_module",
+        "prettypipes:high_retrieval_module"
+    ]
+}

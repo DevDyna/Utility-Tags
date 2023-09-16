@@ -1,0 +1,8 @@
+{
+    "values": [
+        "prettypipes:damage_filter_modifier",
+        "prettypipes:nbt_filter_modifier",
+        "prettypipes:mod_filter_modifier",
+        "prettypipes:tag_filter_modifier"
+    ]
+}

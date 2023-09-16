@@ -1,0 +1,11 @@
+{
+    "values": [
+        "prettypipes:low_extraction_module",
+        "prettypipes:low_filter_module",
+        "prettypipes:low_speed_module",
+        "prettypipes:low_low_priority_module",
+        "prettypipes:low_high_priority_module",
+        "prettypipes:low_retrieval_module",
+        "prettypipes:low_crafting_module"
+    ]
+}

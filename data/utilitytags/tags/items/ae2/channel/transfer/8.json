@@ -1,0 +1,14 @@
+{
+    "values": [
+            "#ae2:smart_cable",
+            "#ae2:glass_cable",
+            "ae2:drive",
+            "#ae2:covered_cable",
+            "ae2:chest",
+            "ae2:spatial_pylon",
+            "ae2:spatial_io_port",
+            "#ae2:pattern_provider",
+            "#ae2:interface",
+			"#utilitytags:ae2/cpu"
+    ]
+}

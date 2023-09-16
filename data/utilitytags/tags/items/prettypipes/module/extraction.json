@@ -1,0 +1,7 @@
+{
+    "values": [
+        "prettypipes:low_extraction_module",
+        "prettypipes:medium_extraction_module",
+        "prettypipes:high_extraction_module"
+    ]
+}

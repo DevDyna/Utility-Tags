@@ -1,0 +1,11 @@
+{
+    "values": [
+            "ae2:matter_cannon",
+            "ae2:entropy_manipulator",
+            "ae2:color_applicator",
+            "ae2:charged_staff",
+			"#utilitytags:ae2/tools/cells/item",
+			"#utilitytags:ae2/tools/cells/fluid",
+			"#utilitytags:ae2/wireless"
+    ]
+}

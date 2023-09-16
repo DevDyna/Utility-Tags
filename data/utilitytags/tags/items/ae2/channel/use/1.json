@@ -1,0 +1,26 @@
+{
+    "values": [
+            "ae2:chest",
+            "ae2:wireless_access_point",
+            "ae2:spatial_pylon",
+            "ae2:spatial_io_port",
+            "ae2:drive",
+            "#ae2:pattern_provider",
+            "ae2:spatial_anchor",
+            "#ae2:interface",
+            "ae2:annihilation_plane",
+            "ae2:formation_plane",
+            "ae2:export_bus",
+            "ae2:import_bus",
+            "ae2:storage_bus",
+            "ae2:conversion_monitor",
+            "#utilitytags:ae2/p2p",
+			"#utilitytags:ae2/cpu",
+            "ae2:pattern_access_terminal",
+            "ae2:pattern_encoding_terminal",
+            "ae2:crafting_terminal",
+            "ae2:terminal",
+            "ae2:security_station",
+            "ae2:io_port"
+    ]
+}

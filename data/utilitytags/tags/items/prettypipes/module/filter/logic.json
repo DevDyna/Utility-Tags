@@ -1,0 +1,8 @@
+{
+    "values": [
+        "prettypipes:stack_size_module",
+        "prettypipes:redstone_module",
+        "prettypipes:round_robin_sorting_modifier",
+        "prettypipes:random_sorting_modifier"
+    ]
+}

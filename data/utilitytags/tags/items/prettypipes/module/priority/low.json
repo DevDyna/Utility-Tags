@@ -1,0 +1,7 @@
+{
+    "values": [
+        "prettypipes:low_low_priority_module",
+        "prettypipes:medium_low_priority_module",
+        "prettypipes:high_low_priority_module"
+    ]
+}

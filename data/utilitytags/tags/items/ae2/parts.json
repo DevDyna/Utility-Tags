@@ -1,0 +1,27 @@
+{
+    "values": [
+            "ae2:annihilation_plane",
+            "ae2:formation_plane",
+            "ae2:export_bus",
+            "ae2:import_bus",
+            "ae2:storage_bus",
+            "ae2:conversion_monitor",
+            "#utilitytags:ae2/p2p",
+            "ae2:pattern_access_terminal",
+            "ae2:pattern_encoding_terminal",
+            "ae2:crafting_terminal",
+            "ae2:terminal",
+			"ae2:wireless_access_point",
+			"ae2:cable_pattern_provider",
+			"ae2:cable_interface",
+			"ae2:toggle_bus",
+            "ae2:inverted_toggle_bus",
+            "ae2:cable_energy_acceptor",
+            "ae2:level_emitter",
+            "ae2:energy_level_emitter",
+            "#ae2:illuminated_panel",
+            "ae2:storage_monitor",
+			"ae2:quartz_fiber",
+			"ae2:facade"
+    ]
+}
