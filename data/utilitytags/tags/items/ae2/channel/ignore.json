@@ -17,6 +17,7 @@
             "#ae2:illuminated_panel",
             "ae2:storage_monitor",
             "ae2:dense_energy_cell",
-            "ae2:condenser"
+            "ae2:condenser",
+			"ae2:cable_anchor"
     ]
 }

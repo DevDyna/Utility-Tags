@@ -1,0 +1,10 @@
+{
+    "values": [
+	"ae2things:disk_drive_1k", 
+	"ae2things:disk_drive_4k", 
+	"ae2things:disk_drive_16k", 
+	"ae2things:disk_drive_64k", 
+	"ae2things:disk_drive_256k", 
+	"ae2:item_storage_cell_256k"
+	]
+}

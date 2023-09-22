@@ -22,6 +22,7 @@
             "#ae2:illuminated_panel",
             "ae2:storage_monitor",
 			"ae2:quartz_fiber",
-			"ae2:facade"
+			"ae2:facade",
+			"ae2:cable_anchor"
     ]
 }
