@@ -1,0 +1,20 @@
+{
+    "values": [
+	"sophisticatedstorage:pickup_upgrade", 
+	"sophisticatedstorage:filter_upgrade", 
+	"sophisticatedstorage:magnet_upgrade", 
+	"sophisticatedstorage:feeding_upgrade", 
+	"sophisticatedstorage:compacting_upgrade", 
+	"sophisticatedstorage:void_upgrade", 
+	"sophisticatedstorage:smelting_upgrade", 
+	"sophisticatedstorage:smoking_upgrade", 
+	"sophisticatedstorage:blasting_upgrade", 
+	"sophisticatedstorage:hopper_upgrade", 
+	"sophisticatedstorage:compression_upgrade", 
+	"sophisticatedstorage:pump_upgrade", 
+	"sophisticatedstorage:jukebox_upgrade", 
+	"sophisticatedstorage:stack_upgrade_tier_1", 
+	"sophisticatedstorage:stonecutter_upgrade", 
+	"sophisticatedstorage:crafting_upgrade"
+	]
+}
