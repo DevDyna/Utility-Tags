@@ -11,5 +11,8 @@
             "ars_nouveau:source_berry",
             "ars_nouveau:split_arrow",
             "ars_nouveau:source_gem",
+			"ars_nouveau:caster_tome",
+			"ars_nouveau:piece_arrow",
+			"ars_nouveau:amplify_arrow"
         ]
 }
