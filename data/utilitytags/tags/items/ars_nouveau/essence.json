@@ -1,0 +1,11 @@
+{
+    "values": [
+	"ars_nouveau:manipulation_essence", 
+	"ars_nouveau:water_essence", 
+	"ars_nouveau:abjuration_essence", 
+	"ars_nouveau:conjuration_essence", 
+	"ars_nouveau:air_essence", 
+	"ars_nouveau:earth_essence", 
+	"ars_nouveau:fire_essence"
+	]
+}
