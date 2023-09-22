@@ -1,9 +1,9 @@
 {
     "values": [
-		"sophisticatedstorage:shulker",
-		"sophisticatedstorage:iron_shulker",
-		"sophisticatedstorage:gold_shulker",
-		"sophisticatedstorage:diamond_shulker",
-		"sophisticatedstorage:netherite_shulker"
+		"sophisticatedstorage:shulker_box",
+		"sophisticatedstorage:iron_shulker_box",
+		"sophisticatedstorage:gold_shulker_box",
+		"sophisticatedstorage:diamond_shulker_box",
+		"sophisticatedstorage:netherite_shulker_box"
 		]
 }
